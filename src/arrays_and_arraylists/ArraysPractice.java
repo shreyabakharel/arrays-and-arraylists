@@ -2,9 +2,9 @@ package arrays_and_arraylists;
 
 public class ArraysPractice {
     public static void main(String[] args) {
-//        Create an array with 5 elements
+//        Create an empty array with 5 elements
 //        give each index in the array a value
-//        print the entire array to the terminal
+//        print the entire array to the terminal (you will need to use the Array.toString() method)
 //        print the length of the array
 
 //        Create an array with 5 elements and give the values in-line
@@ -14,4 +14,6 @@ public class ArraysPractice {
 //        change a few values in each array and then print both arrays to the terminal again
         System.out.println("Hello World");
     }
+
+
 }
